@@ -21,11 +21,10 @@
 ## Usage
 
 ```shell
-# Within the Project dir; Compile
+# Within the Project dir;
 make
 
-# Or just ./webserv for default config
-./webserv [configuration_file]
+./webserv [configuration_file] // just ./webserv for default config
 ```
 
 ## Authors
