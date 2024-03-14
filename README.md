@@ -16,7 +16,7 @@
 -   GET, POST, and DELETE requests
 -   Supports multiples ports
 -   Serves static content
--   Compatible with nginx configuration file
+-   Nginx configuration file compliant
 
 ## Usage
 
