@@ -9,14 +9,16 @@
 </p>
 
 ## 💡 About the project
-* This project aimed to develop a non-blocking web server that complies with HTTP 1.1 standards.
+* This project aimed to develop an HTTP web server.
 
 ## Features
+-   HTTP/1.1 compliant
 -   Handles multiple virtual hosts
 -   GET, POST, and DELETE requests
 -   Supports multiples ports
 -   Serves static content
--   Nginx configuration file compliant
+-   Customisable configuration file
+  (based on the nginx configuration file format)
 
 ## Usage
 
