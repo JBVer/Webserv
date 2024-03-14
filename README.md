@@ -24,7 +24,8 @@
 # Within the Project dir;
 make
 
-./webserv [configuration_file] /* just ./webserv for default config */
+# Only ./webserv for default config
+./webserv [configuration_file]
 ```
 
 ## Authors
