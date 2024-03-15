@@ -26,7 +26,7 @@
 # Within the Project dir;
 make
 
-# Only ./webserv for default config
+# For default config, just run ./webserv
 ./webserv [configuration_file]
 ```
 
