@@ -9,7 +9,7 @@
 </p>
 
 ## 💡 About the project
-* This project aimed to develop an HTTP web server.
+* This project aimed to develop an HTTP web server from scratch.
 
 ## Features
 -   HTTP/1.1 compliant
